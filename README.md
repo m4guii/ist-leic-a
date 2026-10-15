@@ -7,14 +7,24 @@ A coleção de projetos que desenvolvi / contribui durante o meu curso de três 
 <summary> 1ºAno </summary>
 
 <b> Fundamentos de Programação </b> <br>
-    <a href="https://github.com/m4guii/fp-project.git"> Scrabble (Bot) - Python </a> <br>
+    <a href="https://github.com/m4guii/fp-project.git">     - Scrabble (Bot) - Python </a> <br>
 <b> Lógica de Programação </b> <br>
-    <a href="https://github.com/m4guii/prolog-project.git"> Prolog </a> <br>
+    <a href="https://github.com/m4guii/prolog-project.git">     - Prolog </a> <br>
 <b> Introdução a Estruturas de Dados e Algoritmos </b> <br>
-    <a href="https://github.com/m4guii/iaed-project.git"> Sistema de Faturação - C </a> <br>
+    <a href="https://github.com/m4guii/iaed-project.git">   - Sistema de Faturação - C </a> <br>
 <b> Introdução à Arquitetura de Computadores </b> <br>
-    <a href="https://github.com/m4guii/iac-project.git"> Single Core CPU - Assembly RISC-V </a> <br>
+    <a href="https://github.com/m4guii/iac-project.git">    - Single Core CPU - Assembly RISC-V </a> <br>
 
+</details>
+
+<details>
+<summary> 2ºAno </summary>
+
+<b> Programação Orientada a Objetos </b> <br>
+
+<b> Análise e Síntese de Algoritmos </b> <br>
+
+<b> Sistemas Operativos </b> <br>
 
 </details>
 
