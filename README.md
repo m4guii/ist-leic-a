@@ -6,13 +6,13 @@ Uma coleção de projetos que desenvolvi / contribui durante a minha Licenciatur
 <details> 
 <summary> 1ºAno </summary>
 
-#### Fundamentos de Programação <br>
+<h3> Fundamentos de Programação </h3><br>
     <li><a href="https://github.com/m4guii/fp-project.git"> Scrabble (Bot) - Python </a></li> <br>
-#### Lógica de Programação <br>
+<h3> Lógica de Programação </h3> <br>
     <li><a href="https://github.com/m4guii/prolog-project.git"> Prolog </a></li> <br>
-#### Introdução a Estruturas de Dados e Algoritmos <br>
+<h3> Introdução a Estruturas de Dados e Algoritmos </h3><br>
     <li><a href="https://github.com/m4guii/iaed-project.git"> Sistema de Faturação - C </a></li> <br>
-#### Introdução à Arquitetura de Computadores <br>
+<h3> Introdução à Arquitetura de Computadores </h3><br>
     <li><a href="https://github.com/m4guii/iac-project.git"> Single Core CPU - Assembly RISC-V </a></li> <br>
 
 </details>
@@ -20,13 +20,13 @@ Uma coleção de projetos que desenvolvi / contribui durante a minha Licenciatur
 <details>
 <summary> 2ºAno </summary>
 
-#### Programação Orientada a Objetos <br>
+<h3> Programação Orientada a Objetos </h3><br>
     <li></li>
 
-#### Análise e Síntese de Algoritmos <br>
+<h3> Análise e Síntese de Algoritmos </h3><br>
     <li></li>
 
-#### Sistemas Operativos <br>
+<h3> Sistemas Operativos </h3><br>
     <li></li>
 
 </details>
