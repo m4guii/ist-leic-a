@@ -14,7 +14,7 @@ Uma coleção de projetos que desenvolvi / contribui durante a minha Licenciatur
     <ul><li><a href="https://github.com/m4guii/iaed-project.git"> Sistema de Faturação - C </a></li></ul>
 <h3> Introdução à Arquitetura de Computadores </h3>
     <ul><li><a href="https://github.com/m4guii/iac-project.git"> Single Core CPU - Assembly RISC-V </a></li></ul>
-
+<br>
 </details>
 
 <details>
@@ -28,7 +28,7 @@ Uma coleção de projetos que desenvolvi / contribui durante a minha Licenciatur
 
 <h3> Sistemas Operativos </h3>
     <ul><li></li></ul>
-
+<br>
 </details>
 
 <details>
