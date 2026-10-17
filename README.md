@@ -13,7 +13,7 @@ Uma coleção de projetos que desenvolvi / contribui durante a minha Licenciatur
 <h3> Introdução a Estruturas de Dados e Algoritmos </h3>
     <ul><li><a href="https://github.com/m4guii/iaed-project.git"> Sistema de Faturação - C </a></li></ul>
 <h3> Introdução à Arquitetura de Computadores </h3>
-    <ul><li><a href="https://github.com/m4guii/iac-project.git"> Single Core CPU - Assembly RISC-V </a></li></ul>
+    <ul><li><a href="https://github.com/m4guii/iac-project.git"> Transformer (Attention Mechanism) - Assembly RISC-V </a></li></ul>
 <br>
 </details>
 
